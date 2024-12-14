@@ -110,7 +110,8 @@ class User {
 }
 
 const abhi = new User("abhishek")
-// console.log(abhi.createID())
+console.log(abhi.createID())
+
 
 
 class Teacher extends User {

@@ -5,7 +5,7 @@
 const arr = [1, 2, 3, 4, 5]
 
 for (const num of arr) {
-    //console.log(num);
+    // console.log(num);
 }
 
 const str = "hello World"
@@ -35,7 +35,7 @@ const myobj = {
 }
 
 // for (const [key, value] of myobj) {
-//     // console.log(key, ' :- ', value) // not working
+//     console.log(key, ' :- ', value) // not working
 // }
 
 /*************************************  for in loop  ***********************************************/

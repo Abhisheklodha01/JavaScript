@@ -21,20 +21,20 @@
 
 // time stamps
 
-let MytimeStamps = Date.now() 
+// let MytimeStamps = Date.now() 
 // console.log(MytimeStamps);
 // console.log(MyOwnDate.getTime());
 
 // console.log(Math.floor(Date.now()/1000)); // in seconds 
 
-let newDate = new Date()
-console.log(newDate);
-console.log(newDate.getMonth()); // month start with 0 in JS
-console.log(newDate.getMonth() + 1); // month start with 0 in JS to convert with 1 start simply +1
+// let newDate = new Date()
+// console.log(newDate);
+// console.log(newDate.getMonth()); // month start with 0 in JS
+// console.log(newDate.getMonth() + 1); // month start with 0 in JS to convert with 1 start simply +1
 
 // `${newDate.getDay()} and the time is `
 
-newDate.toLocaleString('default', {   // => costmizable format of tolocaleStrin
-    weekday:"long",
+// newDate.toLocaleString('default', {   // => costmizable format of tolocaleStrin
+//     weekday:"long",
     
-})
+// })

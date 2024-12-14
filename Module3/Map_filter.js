@@ -11,8 +11,8 @@
 
 const MyNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-// // const newNums = MyNums.filter((num) => num > 4)  // it return the value
-// // console.log(newNums);
+//  const newNums = MyNums.filter((num) => num > 4)  // it return the value
+//  console.log(newNums);
 
 // const numbers = MyNums.filter( (value) => {
 //           return value > 4
@@ -75,7 +75,7 @@ UserBooks = book.filter( (bk) => {
 })
 
 
-console.log(UserBooks);
+// console.log(UserBooks);
 
 
 
